@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anugula Saikiran Reddy (@Destroyer616)
-- 👀 I’m interested in web developement and Data science
-- 🌱 I’m currently learning web dev
+- 👀 I’m interested in CyberSecurity and Security in general.
+- 🌱 I’m currently working as a Cybersecurity engineer.
 - 📫 How to reach me [mail](saikiran.reddy916@gmail.com)
 
 <!---
